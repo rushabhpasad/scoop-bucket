@@ -1,12 +1,12 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Lightweight cross-platform desktop Markdown editor with live split-pane preview",
   "homepage": "https://github.com/rushabhpasad/md-editor",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/rushabhpasad/md-editor/releases/download/v1.0.4/MD.Editor_1.0.4_x64_en-US.msi",
-      "hash": "2baf4c4b707aa3897e3f0f7ff448d6a834b3d4a90874e1ed471c70cdbe41cf4d"
+      "url": "https://github.com/rushabhpasad/md-editor/releases/download/v1.0.5/MD.Editor_1.0.5_x64_en-US.msi",
+      "hash": "85a3a7f21b2519de37002a3b858df4f736d58a10736a4b2cf9140202367b633f"
     }
   },
   "shortcuts": [
